@@ -1,0 +1,17 @@
+{
+  "name": "Progressive Potatoe",
+  "short_name": "PWA Potatoe",
+  "start_url": "/src/index.html",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#FED766",
+  "theme_color": "#FED766",
+  "icons": [
+    {
+      "src": "/src/images/icons/icon-48x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    }
+  ]
+}

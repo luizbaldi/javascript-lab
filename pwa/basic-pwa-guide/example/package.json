@@ -1,0 +1,19 @@
+{
+  "name": "basic-pwa-guide",
+  "version": "0.1.0",
+  "description": "Just a basic pwa guide example",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "keywords": [
+    "basic",
+    "pwa",
+    "guide"
+  ],
+  "author": "Luiz Baldi",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
